@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CET-4 英语单词学习</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>WordMaster</h1>
+    <p>每天进步一点点</p>
+  </header>
+
+  <main>
+    <section class="progress">
+      <span>今日学习进度</span>
+      <span id="progress">0 / 20</span>
+    </section>
+
+    <section class="word-card">
+      <p id="category">CET-4 高频词汇</p>
+      <h2 id="word">Loading...</h2>
+      <p id="phonetic"></p>
+      <p id="pos"></p>
+      <p id="meaning"></p>
+      <p id="example"></p>
+      <p id="translation"></p>
+
+      <div class="actions">
+        <button id="unknown">还不认识</button>
+        <button id="known">认识</button>
+      </div>
+      <button id="next">下一个单词</button>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
