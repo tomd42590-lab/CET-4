@@ -1,5 +1,5 @@
 
-const WORDS_URL = "./data/cet4_core_words_batch01_500.json";
+const WORDS_URL = "./data/cet4_core_words_500.json";
 
 const wordElement = document.getElementById("word");
 const phoneticElement = document.getElementById("phonetic");
