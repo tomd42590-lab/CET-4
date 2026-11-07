@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "word": "research",
+    "phonetic": "/rɪˈsɜːrtʃ/",
+    "pos": "n./v.",
+    "meaning": "研究；调查；研究工作",
+    "example": "Scientific research helps us understand the world.",
+    "translation": "科学研究帮助我们理解世界。",
+    "collocations": [
+      "conduct research",
+      "research methods"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "word": "academic",
+    "phonetic": "/ˌækəˈdemɪk/",
+    "pos": "adj./n.",
+    "meaning": "学术的；学者",
+    "example": "Academic success often requires steady effort.",
+    "translation": "学业上的成功通常需要持续努力。",
+    "collocations": [
+      "academic performance",
+      "academic year"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 3,
+    "word": "knowledge",
+    "phonetic": "/ˈnɑːlɪdʒ/",
+    "pos": "n.",
+    "meaning": "知识；学问",
+    "example": "Reading is an effective way to gain knowledge.",
+    "translation": "阅读是获取知识的有效方式。",
+    "collocations": [
+      "gain knowledge",
+      "basic knowledge"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 4,
+    "word": "acquire",
+    "phonetic": "/əˈkwaɪər/",
+    "pos": "v.",
+    "meaning": "获得；习得",
+    "example": "Students can acquire new skills through practice.",
+    "translation": "学生可以通过练习掌握新技能。",
+    "collocations": [
+      "acquire skills",
+      "acquire knowledge"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 5,
+    "word": "participate",
+    "phonetic": "/pɑːrˈtɪsɪpeɪt/",
+    "pos": "v.",
+    "meaning": "参加；参与",
+    "example": "More students should participate in class discussions.",
+    "translation": "应该有更多学生参与课堂讨论。",
+    "collocations": [
+      "participate in",
+      "actively participate"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 6,
+    "word": "graduate",
+    "phonetic": "/ˈɡrædʒuət/",
+    "pos": "v./n.",
+    "meaning": "毕业；毕业生",
+    "example": "She hopes to graduate from university next year.",
+    "translation": "她希望明年大学毕业。",
+    "collocations": [
+      "graduate from",
+      "college graduate"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 7,
+    "word": "improve",
+    "phonetic": "/ɪmˈpruːv/",
+    "pos": "v.",
+    "meaning": "改善；提高",
+    "example": "Regular practice can improve your speaking ability.",
+    "translation": "定期练习可以提高你的口语能力。",
+    "collocations": [
+      "improve efficiency",
+      "improve one's ability"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 8,
+    "word": "skill",
+    "phonetic": "/skɪl/",
+    "pos": "n.",
+    "meaning": "技能；技巧",
+    "example": "Communication is an important workplace skill.",
+    "translation": "沟通是一项重要的职场技能。",
+    "collocations": [
+      "practical skills",
+      "develop a skill"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 9,
+    "word": "education",
+    "phonetic": "/ˌedʒuˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "教育；培养",
+    "example": "Education plays an important role in social development.",
+    "translation": "教育在社会发展中发挥重要作用。",
+    "collocations": [
+      "higher education",
+      "quality education"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 10,
+    "word": "approach",
+    "phonetic": "/əˈproʊtʃ/",
+    "pos": "n./v.",
+    "meaning": "方法；途径；接近",
+    "example": "We need a different approach to solve this problem.",
+    "translation": "我们需要用另一种方法解决这个问题。",
+    "collocations": [
+      "a practical approach",
+      "approach a problem"
+    ],
+    "category": "education",
+    "level": 1
+  },
+  {
+    "id": 11,
+    "word": "technology",
+    "phonetic": "/tekˈnɑːlədʒi/",
+    "pos": "n.",
+    "meaning": "技术；工艺",
+    "example": "Modern technology has changed the way people communicate.",
+    "translation": "现代技术改变了人们交流的方式。",
+    "collocations": [
+      "advanced technology",
+      "information technology"
+    ],
+    "category": "technology",
+    "level": 1
+  },
+  {
+    "id": 12,
+    "word": "information",
+    "phonetic": "/ˌɪnfərˈmeɪʃn/",
+    "pos": "n.",
+    "meaning": "信息；资料",
+    "example": "The internet provides access to a huge amount of information.",
+    "translation": "互联网提供了获取大量信息的渠道。",
+    "collocations": [
+      "access information",
+      "useful information"
+    ],
+    "category": "technology",
+    "level": 1
+  },
+  {
+    "id": 13,
+    "word": "digital",
+    "phonetic": "/ˈdɪdʒɪtl/",
+    "pos": "adj.",
+    "meaning": "数字的；数码的",
+    "example": "Digital tools can make learning more convenient.",
+    "translation": "数字工具可以让学习更加方便。",
+    "collocations": [
+      "digital technology",
+      "digital device"
+    ],
+    "category": "technology",
+    "level": 1
+  },
+  {
+    "id": 14,
+    "word": "communication",
+    "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "交流；沟通；通信",
+    "example": "Good communication is essential for teamwork.",
+    "translation": "良好的沟通对团队合作至关重要。",
+    "collocations": [
+      "effective communication",
+      "communication skills"
+    ],
+    "category": "technology",
+    "level": 1
+  },
+  {
+    "id": 15,
+    "word": "online",
+    "phonetic": "/ˌɑːnˈlaɪn/",
+    "pos": "adj./adv.",
+    "meaning": "在线的；联网地",
+    "example": "Many courses are now available online.",
+    "translation": "现在许多课程都可以在线学习。",
+    "collocations": [
+      "online learning",
+      "online service"
+    ],
+    "category": "technology",
+    "level": 1
+  },
+  {
+    "id": 16,
+    "word": "environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "pos": "n.",
+    "meaning": "环境；周围状况",
+    "example": "Everyone can take steps to protect the environment.",
+    "translation": "每个人都可以采取行动保护环境。",
+    "collocations": [
+      "protect the environment",
+      "natural environment"
+    ],
+    "category": "society",
+    "level": 1
+  },
+  {
+    "id": 17,
+    "word": "society",
+    "phonetic": "/səˈsaɪəti/",
+    "pos": "n.",
+    "meaning": "社会；社团",
+    "example": "Education benefits both individuals and society.",
+    "translation": "教育既有利于个人，也有利于社会。",
+    "collocations": [
+      "modern society",
+      "social development"
+    ],
+    "category": "society",
+    "level": 1
+  },
+  {
+    "id": 18,
+    "word": "public",
+    "phonetic": "/ˈpʌblɪk/",
+    "pos": "adj./n.",
+    "meaning": "公共的；公众",
+    "example": "The library is open to the public.",
+    "translation": "这座图书馆向公众开放。",
+    "collocations": [
+      "public health",
+      "public transport"
+    ],
+    "category": "society",
+    "level": 1
+  },
+  {
+    "id": 19,
+    "word": "development",
+    "phonetic": "/dɪˈveləpmənt/",
+    "pos": "n.",
+    "meaning": "发展；开发；成长",
+    "example": "Sustainable development requires long-term planning.",
+    "translation": "可持续发展需要长期规划。",
+    "collocations": [
+      "economic development",
+      "personal development"
+    ],
+    "category": "society",
+    "level": 1
+  },
+  {
+    "id": 20,
+    "word": "behavior",
+    "phonetic": "/bɪˈheɪvjər/",
+    "pos": "n.",
+    "meaning": "行为；举止",
+    "example": "Our behavior can influence other people.",
+    "translation": "我们的行为可能影响他人。",
+    "collocations": [
+      "human behavior",
+      "change one's behavior"
+    ],
+    "category": "society",
+    "level": 1
+  },
+  {
+    "id": 21,
+    "word": "economy",
+    "phonetic": "/ɪˈkɑːnəmi/",
+    "pos": "n.",
+    "meaning": "经济；节约",
+    "example": "A strong economy can create more job opportunities.",
+    "translation": "强劲的经济能够创造更多就业机会。",
+    "collocations": [
+      "global economy",
+      "market economy"
+    ],
+    "category": "work_economy",
+    "level": 1
+  },
+  {
+    "id": 22,
+    "word": "employment",
+    "phonetic": "/ɪmˈplɔɪmənt/",
+    "pos": "n.",
+    "meaning": "就业；雇用",
+    "example": "Education can improve people's employment prospects.",
+    "translation": "教育能够改善人们的就业前景。",
+    "collocations": [
+      "employment opportunities",
+      "employment rate"
+    ],
+    "category": "work_economy",
+    "level": 1
+  },
+  {
+    "id": 23,
+    "word": "employee",
+    "phonetic": "/ɪmˈplɔɪiː/",
+    "pos": "n.",
+    "meaning": "雇员；员工",
+    "example": "The company provides training for new employees.",
+    "translation": "公司为新员工提供培训。",
+    "collocations": [
+      "full-time employee",
+      "employee benefits"
+    ],
+    "category": "work_economy",
+    "level": 1
+  },
+  {
+    "id": 24,
+    "word": "career",
+    "phonetic": "/kəˈrɪr/",
+    "pos": "n.",
+    "meaning": "职业；职业生涯",
+    "example": "Choosing a career requires careful thought.",
+    "translation": "选择职业需要认真考虑。",
+    "collocations": [
+      "career development",
+      "career path"
+    ],
+    "category": "work_economy",
+    "level": 1
+  },
+  {
+    "id": 25,
+    "word": "benefit",
+    "phonetic": "/ˈbenɪfɪt/",
+    "pos": "n./v.",
+    "meaning": "益处；福利；使受益",
+    "example": "Regular exercise brings benefits to both body and mind.",
+    "translation": "经常锻炼对身心都有益处。",
+    "collocations": [
+      "bring benefits",
+      "benefit from"
+    ],
+    "category": "work_economy",
+    "level": 1
+  },
+  {
+    "id": 26,
+    "word": "industry",
+    "phonetic": "/ˈɪndəstri/",
+    "pos": "n.",
+    "meaning": "工业；行业；勤奋",
+    "example": "The technology industry is changing rapidly.",
+    "translation": "科技行业正在迅速变化。",
+    "collocations": [
+      "manufacturing industry",
+      "industry standard"
+    ],
+    "category": "work_economy",
+    "level": 1
+  },
+  {
+    "id": 27,
+    "word": "income",
+    "phonetic": "/ˈɪnkʌm/",
+    "pos": "n.",
+    "meaning": "收入；所得",
+    "example": "People should learn how to manage their income.",
+    "translation": "人们应该学习如何管理自己的收入。",
+    "collocations": [
+      "household income",
+      "annual income"
+    ],
+    "category": "work_economy",
+    "level": 1
+  },
+  {
+    "id": 28,
+    "word": "consume",
+    "phonetic": "/kənˈsuːm/",
+    "pos": "v.",
+    "meaning": "消费；消耗；吃喝",
+    "example": "Large buildings consume a great deal of energy.",
+    "translation": "大型建筑消耗大量能源。",
+    "collocations": [
+      "consume energy",
+      "consumer goods"
+    ],
+    "category": "work_economy",
+    "level": 1
+  },
+  {
+    "id": 29,
+    "word": "affect",
+    "phonetic": "/əˈfekt/",
+    "pos": "v.",
+    "meaning": "影响；使感动",
+    "example": "Lack of sleep can affect your concentration.",
+    "translation": "睡眠不足会影响你的注意力。",
+    "collocations": [
+      "affect health",
+      "seriously affect"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 30,
+    "word": "influence",
+    "phonetic": "/ˈɪnfluəns/",
+    "pos": "n./v.",
+    "meaning": "影响；影响力",
+    "example": "Parents have a strong influence on their children.",
+    "translation": "父母对孩子有很大的影响。",
+    "collocations": [
+      "have an influence on",
+      "influence behavior"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 31,
+    "word": "indicate",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "pos": "v.",
+    "meaning": "表明；指出；暗示",
+    "example": "The results indicate that the plan is effective.",
+    "translation": "结果表明这项计划是有效的。",
+    "collocations": [
+      "indicate that",
+      "clearly indicate"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 32,
+    "word": "suggest",
+    "phonetic": "/səˈdʒest/",
+    "pos": "v.",
+    "meaning": "建议；表明；暗示",
+    "example": "The report suggests that further research is needed.",
+    "translation": "报告表明还需要进一步研究。",
+    "collocations": [
+      "suggest a solution",
+      "suggest doing"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 33,
+    "word": "demonstrate",
+    "phonetic": "/ˈdemənstreɪt/",
+    "pos": "v.",
+    "meaning": "证明；展示；示范",
+    "example": "The experiment demonstrates how the material behaves under pressure.",
+    "translation": "这个实验展示了材料在压力下的表现。",
+    "collocations": [
+      "demonstrate ability",
+      "demonstrate that"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 34,
+    "word": "establish",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "pos": "v.",
+    "meaning": "建立；确立；证实",
+    "example": "The university plans to establish a new research center.",
+    "translation": "这所大学计划建立一个新的研究中心。",
+    "collocations": [
+      "establish a system",
+      "establish a relationship"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 35,
+    "word": "maintain",
+    "phonetic": "/meɪnˈteɪn/",
+    "pos": "v.",
+    "meaning": "维持；保持；维护",
+    "example": "It is important to maintain a healthy lifestyle.",
+    "translation": "保持健康的生活方式很重要。",
+    "collocations": [
+      "maintain balance",
+      "maintain contact"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 36,
+    "word": "contribute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "pos": "v.",
+    "meaning": "贡献；促成；投稿",
+    "example": "Everyone can contribute to protecting the environment.",
+    "translation": "每个人都可以为保护环境作出贡献。",
+    "collocations": [
+      "contribute to",
+      "make a contribution"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 37,
+    "word": "involve",
+    "phonetic": "/ɪnˈvɑːlv/",
+    "pos": "v.",
+    "meaning": "涉及；包含；使参与",
+    "example": "The project involves students from several departments.",
+    "translation": "这个项目涉及几个院系的学生。",
+    "collocations": [
+      "be involved in",
+      "involve doing"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 38,
+    "word": "require",
+    "phonetic": "/rɪˈkwaɪər/",
+    "pos": "v.",
+    "meaning": "需要；要求",
+    "example": "Learning a language requires patience and practice.",
+    "translation": "学习一门语言需要耐心和练习。",
+    "collocations": [
+      "require attention",
+      "require someone to do"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 39,
+    "word": "achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "pos": "v.",
+    "meaning": "实现；达到；取得",
+    "example": "With effort, you can achieve your goals.",
+    "translation": "通过努力，你可以实现自己的目标。",
+    "collocations": [
+      "achieve a goal",
+      "achieve success"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 40,
+    "word": "provide",
+    "phonetic": "/prəˈvaɪd/",
+    "pos": "v.",
+    "meaning": "提供；供应",
+    "example": "The website provides useful learning resources.",
+    "translation": "这个网站提供有用的学习资源。",
+    "collocations": [
+      "provide information",
+      "provide someone with"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 41,
+    "word": "reduce",
+    "phonetic": "/rɪˈduːs/",
+    "pos": "v.",
+    "meaning": "减少；降低；使沦为",
+    "example": "We should find ways to reduce waste.",
+    "translation": "我们应该想办法减少浪费。",
+    "collocations": [
+      "reduce costs",
+      "reduce pollution"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 42,
+    "word": "increase",
+    "phonetic": "/ɪnˈkriːs/",
+    "pos": "v./n.",
+    "meaning": "增加；增长",
+    "example": "The number of online learners continues to increase.",
+    "translation": "在线学习者的数量持续增加。",
+    "collocations": [
+      "increase rapidly",
+      "increase productivity"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 43,
+    "word": "respond",
+    "phonetic": "/rɪˈspɑːnd/",
+    "pos": "v.",
+    "meaning": "回答；回应；作出反应",
+    "example": "The government must respond to public concerns.",
+    "translation": "政府必须回应公众的关切。",
+    "collocations": [
+      "respond to",
+      "respond quickly"
+    ],
+    "category": "verbs",
+    "level": 1
+  },
+  {
+    "id": 44,
+    "word": "issue",
+    "phonetic": "/ˈɪʃuː/",
+    "pos": "n./v.",
+    "meaning": "问题；议题；发行；发布",
+    "example": "Climate change is a global issue.",
+    "translation": "气候变化是一个全球性问题。",
+    "collocations": [
+      "social issue",
+      "address an issue"
+    ],
+    "category": "nouns",
+    "level": 1
+  },
+  {
+    "id": 45,
+    "word": "factor",
+    "phonetic": "/ˈfæktər/",
+    "pos": "n.",
+    "meaning": "因素；要素",
+    "example": "Cost is an important factor in this decision.",
+    "translation": "成本是这项决策中的一个重要因素。",
+    "collocations": [
+      "key factor",
+      "major factor"
+    ],
+    "category": "nouns",
+    "level": 1
+  },
+  {
+    "id": 46,
+    "word": "impact",
+    "phonetic": "/ˈɪmpækt/",
+    "pos": "n./v.",
+    "meaning": "影响；冲击；产生影响",
+    "example": "Social media has a significant impact on communication.",
+    "translation": "社交媒体对交流产生了显著影响。",
+    "collocations": [
+      "have an impact on",
+      "environmental impact"
+    ],
+    "category": "nouns",
+    "level": 1
+  },
+  {
+    "id": 47,
+    "word": "evidence",
+    "phonetic": "/ˈevɪdəns/",
+    "pos": "n.",
+    "meaning": "证据；迹象",
+    "example": "There is strong evidence to support this conclusion.",
+    "translation": "有充分证据支持这一结论。",
+    "collocations": [
+      "provide evidence",
+      "scientific evidence"
+    ],
+    "category": "nouns",
+    "level": 1
+  },
+  {
+    "id": 48,
+    "word": "outcome",
+    "phonetic": "/ˈaʊtkʌm/",
+    "pos": "n.",
+    "meaning": "结果；后果",
+    "example": "The outcome depends on how carefully we prepare.",
+    "translation": "结果取决于我们准备得有多充分。",
+    "collocations": [
+      "positive outcome",
+      "final outcome"
+    ],
+    "category": "nouns",
+    "level": 1
+  },
+  {
+    "id": 49,
+    "word": "challenge",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "pos": "n./v.",
+    "meaning": "挑战；艰巨任务；质疑",
+    "example": "Adapting to change can be a major challenge.",
+    "translation": "适应变化可能是一项重大挑战。",
+    "collocations": [
+      "face a challenge",
+      "meet the challenge"
+    ],
+    "category": "nouns",
+    "level": 1
+  },
+  {
+    "id": 50,
+    "word": "opportunity",
+    "phonetic": "/ˌɑːpərˈtuːnəti/",
+    "pos": "n.",
+    "meaning": "机会；时机",
+    "example": "Studying abroad can offer valuable opportunities.",
+    "translation": "出国学习能够带来宝贵的机会。",
+    "collocations": [
+      "job opportunity",
+      "take the opportunity"
+    ],
+    "category": "nouns",
+    "level": 1
+  }
+]
