@@ -1,0 +1,152 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, "Microsoft YaHei", sans-serif;
+  background: #f3f6fb;
+  color: #263247;
+  min-height: 100vh;
+}
+
+header {
+  background: linear-gradient(135deg, #3568d4, #694ed0);
+  color: white;
+  text-align: center;
+  padding: 35px 20px;
+}
+
+header h1 {
+  font-size: 30px;
+  margin-bottom: 8px;
+}
+
+header p {
+  opacity: 0.9;
+  font-size: 14px;
+}
+
+main {
+  width: 90%;
+  max-width: 560px;
+  margin: 30px auto;
+}
+
+.progress {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  padding: 18px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 12px #0000000c;
+  font-size: 14px;
+}
+
+.word-card {
+  background: white;
+  border-radius: 18px;
+  padding: 30px 22px;
+  text-align: center;
+  box-shadow: 0 5px 20px #00000010;
+}
+
+#category {
+  color: #6681bd;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+#word {
+  font-size: 36px;
+  color: #263e70;
+  margin-bottom: 10px;
+  overflow-wrap: anywhere;
+}
+
+#phonetic {
+  color: #888;
+  margin-bottom: 12px;
+}
+
+#pos {
+  color: #5475b7;
+  margin-bottom: 10px;
+}
+
+#meaning {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+#example {
+  color: #555;
+  font-size: 15px;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+
+#translation {
+  color: #888;
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+button {
+  border: none;
+  border-radius: 10px;
+  padding: 13px 18px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+button:active {
+  opacity: 0.75;
+}
+
+.actions button {
+  flex: 1;
+}
+
+#unknown {
+  background: #fff0e9;
+  color: #d66b36;
+}
+
+#known {
+  background: #e6f6ed;
+  color: #258451;
+}
+
+#next {
+  width: 100%;
+  margin-top: 15px;
+  background: #416bd0;
+  color: white;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+@media (max-width: 400px) {
+  #word {
+    font-size: 30px;
+  }
+
+  .word-card {
+    padding: 25px 16px;
+  }
+}
